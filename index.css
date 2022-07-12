@@ -1,0 +1,15 @@
+/* #output{
+    width:100%;
+    border: solid black;
+    height:20px;
+} */
+.delete{
+    margin-left:50%;
+    transform:translate(-30px,-45px);
+    left:50%;
+    top:14%;
+}
+.taskline{
+    margin:5%;
+    font-size: 30px;
+}
