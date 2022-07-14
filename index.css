@@ -1,15 +1,7 @@
-/* #output{
-    width:100%;
-    border: solid black;
-    height:20px;
-} */
 .delete{
+    display:inline;
     margin-left:50%;
-    transform:translate(-30px,-45px);
+    transform:translate(-200%,-20px);
     left:50%;
-    top:14%;
-}
-.taskline{
-    margin:5%;
-    font-size: 30px;
+    
 }
